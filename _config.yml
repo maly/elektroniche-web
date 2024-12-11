@@ -90,7 +90,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : adent
 facebook:
   username               :
   app_id                 :
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Martin Malý"
+  avatar : "/assets/images/ja-leden-23.jpg"
+  bio    : "Autor knih o elektronice, nadšenec do elektronických konstrukcí a milovník starých počítačů"
+  location         : "Praha, Česko"
+  email            : "maly@maly.cz"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
