@@ -1,7 +1,19 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Retročip"
+    url: https://retrocip.elektroniche.cz
+  - title: "Hradla, volty"
+    url: https://elektrokniha.elektroniche.cz
+  - title: "Data, čipy"  
+    url: https://datacipy.elektroniche.cz
+  - title: "Porty, bajty"
+    url: https://osmibity.elektroniche.cz
+  - title: "Micro:Bit"
+    url: https://mbit.elektroniche.cz
+  - title: "ESP32"
+    url: https://esp32.elektroniche.cz
+  - title: "FORTH"
+    url: https://forth.elektroniche.cz
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
