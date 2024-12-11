@@ -1,6 +1,6 @@
 ---
 title: "Martin Malý a elektronika"
-date: 2024-12-12
+date: 2024-12-11
 categories:
   - knihy
 tags:
