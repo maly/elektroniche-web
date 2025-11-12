@@ -12,8 +12,11 @@ main:
     url: https://mbit.elektroniche.cz
   - title: "ESP32"
     url: https://esp32.elektroniche.cz
-  - title: "FORTH"
-    url: https://forth.elektroniche.cz
+    
+  - title: "Homeserver"
+    url: https://homeserver.elektroniche.cz  
+#  - title: "FORTH"
+#    url: https://forth.elektroniche.cz
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
