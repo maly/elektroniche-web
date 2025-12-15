@@ -12,9 +12,10 @@ main:
     url: https://mbit.elektroniche.cz
   - title: "ESP32"
     url: https://esp32.elektroniche.cz
-    
-  - title: "Homeserver"
-    url: https://homeserver.elektroniche.cz  
+  - title: "Kity, bity"    
+    url: https://kbn.elektroniche.cz
+#  - title: "Homeserver"
+#    url: https://homeserver.elektroniche.cz  
 #  - title: "FORTH"
 #    url: https://forth.elektroniche.cz
   # - title: "About"
